@@ -14,6 +14,12 @@ export const Footer = () => {
                         <li>twitter</li>
                         <li>snap caht</li>
                     </ul>
+                    <ul>
+                        <li>1</li>
+                        <li>2</li>
+                        <li>3</li>
+                        <li>4</li>
+                    </ul>
                 </div>
             </div>
         </footer>
